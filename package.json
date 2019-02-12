@@ -4,7 +4,7 @@
   "description": "Ruuvitag bridge for Homebridge",
   "main": "index.js",
   "dependencies": {
-    "node-ruuvitag": "~4.1.0"
+    "node-ruuvitag": "git+https://github.com/larpo/node-ruuvitag.git"
   },
   "devDependencies": {},
   "scripts": {
